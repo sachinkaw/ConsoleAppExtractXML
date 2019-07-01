@@ -1,0 +1,14 @@
+C:\Sachin\FOLDERS\Apple\FinalResume\Software\June_2019\Serko Limited -Senior Software Developer\Assignment\WebAPI\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.deps.json
+C:\Sachin\FOLDERS\Apple\FinalResume\Software\June_2019\Serko Limited -Senior Software Developer\Assignment\WebAPI\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.json
+C:\Sachin\FOLDERS\Apple\FinalResume\Software\June_2019\Serko Limited -Senior Software Developer\Assignment\WebAPI\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.dev.json
+C:\Sachin\FOLDERS\Apple\FinalResume\Software\June_2019\Serko Limited -Senior Software Developer\Assignment\WebAPI\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.dll
+C:\Sachin\FOLDERS\Apple\FinalResume\Software\June_2019\Serko Limited -Senior Software Developer\Assignment\WebAPI\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.pdb
+C:\Sachin\FOLDERS\Apple\FinalResume\Software\June_2019\Serko Limited -Senior Software Developer\Assignment\WebAPI\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.csprojAssemblyReference.cache
+C:\Sachin\FOLDERS\Apple\FinalResume\Software\June_2019\Serko Limited -Senior Software Developer\Assignment\WebAPI\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Sachin\FOLDERS\Apple\FinalResume\Software\June_2019\Serko Limited -Senior Software Developer\Assignment\WebAPI\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorAssemblyInfo.cache
+C:\Sachin\FOLDERS\Apple\FinalResume\Software\June_2019\Serko Limited -Senior Software Developer\Assignment\WebAPI\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorAssemblyInfo.cs
+C:\Sachin\FOLDERS\Apple\FinalResume\Software\June_2019\Serko Limited -Senior Software Developer\Assignment\WebAPI\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfoInputs.cache
+C:\Sachin\FOLDERS\Apple\FinalResume\Software\June_2019\Serko Limited -Senior Software Developer\Assignment\WebAPI\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfo.cs
+C:\Sachin\FOLDERS\Apple\FinalResume\Software\June_2019\Serko Limited -Senior Software Developer\Assignment\WebAPI\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Sachin\FOLDERS\Apple\FinalResume\Software\June_2019\Serko Limited -Senior Software Developer\Assignment\WebAPI\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.dll
+C:\Sachin\FOLDERS\Apple\FinalResume\Software\June_2019\Serko Limited -Senior Software Developer\Assignment\WebAPI\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.pdb
